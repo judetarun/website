@@ -626,12 +626,17 @@ administration.html
 </html>
 ```
 # OUTPUT:
-![alt text](<../Screenshot 2025-05-02 121526.png>)
-![alt text](<../Screenshot 2025-05-02 121543.png>)
-![alt text](<../Screenshot 2025-05-02 121604.png>)
-![alt text](<../Screenshot 2025-05-02 121624.png>)
-![alt text](<../Screenshot 2025-05-02 121634.png>)
-![alt text](<../Screenshot 2025-05-02 121649.png>)
+![Screenshot 2025-05-02 121526](https://github.com/user-attachments/assets/35a901a8-b512-4842-a81e-038d11756713)
+![Screenshot 2025-05-02 121543](https://github.com/user-attachments/assets/bbc47c42-e0cd-4fdb-97b0-4170ff952f35)
+![Screenshot 2025-05-02 121604](https://github.com/user-attachments/assets/43c1ddcc-0e5e-49db-9ecc-6b898705bad9)
+![Screenshot 2025-05-02 121624](https://github.com/user-attachments/assets/ca5bf3d1-a0a4-4cfc-965c-a01622ed95b4)
+![Screenshot 2025-05-02 121634](https://github.com/user-attachments/assets/2fa04cf5-669a-4529-973b-8fede9c5e8d1)
+![Screenshot 2025-05-02 121649](https://github.com/user-attachments/assets/d03944d1-99bd-4a32-85af-e8cbec6b63e1)
+
+
+
+
+
 
 
 
