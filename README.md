@@ -626,7 +626,14 @@ administration.html
 </html>
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-05-01 202530.png>) ![alt text](<Screenshot 2025-05-01 202458.png>) ![alt text](<Screenshot 2025-05-01 202520.png>)
-![alt text](<Screenshot 2025-05-01 202550.png>) ![alt text](<Screenshot 2025-05-01 202608.png>) ![alt text](<Screenshot 2025-05-01 202619.png>)
+![alt text](<../Screenshot 2025-05-02 121526.png>)
+![alt text](<../Screenshot 2025-05-02 121543.png>)
+![alt text](<../Screenshot 2025-05-02 121604.png>)
+![alt text](<../Screenshot 2025-05-02 121624.png>)
+![alt text](<../Screenshot 2025-05-02 121634.png>)
+![alt text](<../Screenshot 2025-05-02 121649.png>)
+
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

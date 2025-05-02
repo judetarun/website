@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Our Chefs | Fork & Flame</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url('background.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      text-align: center;
+    }
+
+    .container {
+      background-color: rgba(0, 0, 0, 0.8);
+      padding: 50px 20px;
+      margin: 30px auto;
+      max-width: 1000px;
+      border-radius: 12px;
+    }
+
+    h1 {
+      color: #ffa500;
+      margin-bottom: 30px;
+    }
+
+    .chef-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    .chef-card {
+      background-color: rgba(255, 255, 255, 0.05);
+      border-radius: 10px;
+      padding: 20px;
+      width: 250px;
+      box-shadow: 0 0 15px rgba(255, 69, 0, 0.5);
+    }
+
+    .chef-card img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 15px;
+      border: 3px solid #ff6600;
+    }
+
+    .chef-card h3 {
+      color: #ffd700;
+      margin: 10px 0 5px;
+    }
+
+    .chef-card p {
+      font-size: 15px;
+      color: #f1f1f1;
+    }
+
+    @media (max-width: 600px) {
+      .chef-grid {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Meet Our Culinary Team</h1>
+
+    <div class="chef-grid">
+      <div class="chef-card">
+        <img src="chef 1.avif" alt="Chef Marco">
+        <h3>Chef Marco Blaze</h3>
+        <p>Executive Chef & Grill Master with a love for fire-roasted perfection.</p>
+      </div>
+
+      <div class="chef-card">
+        <img src="chef 2.jpg" alt="Chef stella jennifer">
+        <h3>Chef stella jennifer</h3>
+        <p>Pastry Chef bringing fiery flair to our desserts with molten lava treats.</p>
+      </div>
+
+      <div class="chef-card">
+        <img src="chef 3.jpeg" alt="Chef Lee">
+        <h3>Chef Daniel Lee</h3>
+        <p>Fusion expert blending Asian spices with flame-grilled classics.</p>
+      </div>
+
+      <div class="chef-card">
+        <img src="chef 4.png" alt="Chef leo">
+        <h3>Chef leo Grant</h3>
+        <p>Sous Chef ensuring every plate reflects Fork & Flame’s bold spirit.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
